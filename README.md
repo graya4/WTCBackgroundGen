@@ -8,5 +8,4 @@ Then do "python.exe convert.py [your image]"
 The resulting image should be outputted as "output.txt"
 
 For comparison with the original backgrounds, the first image is the original image. The second image is from the script.\
-<img src="https://i.imgur.com/zIwo6zY.jpeg" alt="Original" width="400"/>\ 
-<img src="https://i.imgur.com/Yp7lop6.jpeg" alt="Script Result" width="400"/>
+<img src="https://i.imgur.com/zIwo6zY.jpeg" alt="Original" width="400"/>&nbsp;<img src="https://i.imgur.com/Yp7lop6.jpeg" alt="Script Result" width="400"/>
